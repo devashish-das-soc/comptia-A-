@@ -1,3 +1,2 @@
-# comptia-A-
-Comptia A Security+
-kk
+# THREATS, ATTACKS AND VULNERABILITIES.
+# THREAT AND ITS ATTRIBUTES#
